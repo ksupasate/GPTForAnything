@@ -16,7 +16,7 @@ Welcome to GPTForAnything, a knowledge source repository dedicated to collecting
 
 In this section, you will find a collection of Google Colab notebooks that provide hands-on learning experiences with GPT. These notebooks are designed to help you understand how to apply GPT in various applications. Whether you are a beginner or an experienced practitioner, these resources can be valuable for your learning journey.
 
-- [Example Colab Notebook 1](#link-to-notebook-1)
+- [How to Make ChatopenAI with you dataset](https://colab.research.google.com/drive/1juu6gfdgy9j4BoyfMhsz6xSO_-L_FbPP?usp=sharing)
 - [Example Colab Notebook 2](#link-to-notebook-2)
 - [Example Colab Notebook 3](#link-to-notebook-3)
 
@@ -32,9 +32,9 @@ This section contains links to code repositories that demonstrate the implementa
 
 Here, you will find a curated list of research papers, articles, and blog posts related to GPT and its applications. These resources provide in-depth knowledge and insights into the latest advancements in GPT technology and its impact on various domains.
 
-- [Example Research Paper 1](#link-to-paper-1)
-- [Example Research Paper 2](#link-to-paper-2)
-- [Example Article 1](#link-to-article-1)
+- [GPT-4 Technical Report](https://browse.arxiv.org/pdf/2303.08774.pdf)
+- [Language Models are Few-Shot Learners](https://browse.arxiv.org/pdf/2005.14165.pdf)
+- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)
 
 ## Contributing
 
