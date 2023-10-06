@@ -47,6 +47,6 @@ We encourage you to contribute to GPTForAnything by adding new resources, includ
 
 Thank you for your contributions, and let's build a comprehensive knowledge source for GPT applications together!
 
-## License
+## Hacktoberfest
 
-This repository is licensed under the [MIT License](LICENSE).
+Thank you for your contributions, and let's build a comprehensive knowledge source for GPT applications together during Hacktoberfest!
