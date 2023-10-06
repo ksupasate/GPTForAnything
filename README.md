@@ -2,11 +2,9 @@
   GPTForAnything - A Knowledge Source Repository 🧠
 </h1>
 
-<p align="center">
 <strong> 
 Welcome to GPTForAnything, a knowledge source repository dedicated to collecting various resources related to the application of GPT (Generative Pre-trained Transformer) in a wide range of domains, including healthcare, finance, education, and more.
 </strong>
-</p>
 
 ## Table of Contents
 
