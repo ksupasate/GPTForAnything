@@ -32,9 +32,9 @@ This section contains links to code repositories that demonstrate the implementa
 
 Here, you will find a curated list of research papers, articles, and blog posts related to GPT and its applications. These resources provide in-depth knowledge and insights into the latest advancements in GPT technology and its impact on various domains.
 
-- [Example Research Paper 1](#link-to-paper-1)
-- [Example Research Paper 2](#link-to-paper-2)
-- [Example Article 1](#link-to-article-1)
+#### Retrieval Augmented Generation (RAG)
+- [Retrieval Augmented Generation (RAG): Reducing Hallucinations in GenAI Applications](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+- [Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-retrieval-augmented-generation/)
 
 ## Contributing
 
