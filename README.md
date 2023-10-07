@@ -16,7 +16,7 @@ Welcome to GPTForAnything, a knowledge source repository dedicated to collecting
 
 In this section, you will find a collection of Google Colab notebooks that provide hands-on learning experiences with GPT. These notebooks are designed to help you understand how to apply GPT in various applications. Whether you are a beginner or an experienced practitioner, these resources can be valuable for your learning journey.
 
-- [Example Colab Notebook 1](#link-to-notebook-1)
+- [ลองเขียน Python ทำ ChatGPT พูดได้ง่ายๆ ด้วย Azure OpenAI และ Speech service](https://colab.research.google.com/drive/1tJXALqW6JR5og93wuRBjpzj3tDrOC_QZ?usp=sharing)
 - [Example Colab Notebook 2](#link-to-notebook-2)
 - [Example Colab Notebook 3](#link-to-notebook-3)
 
