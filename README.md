@@ -38,6 +38,7 @@ Here, you will find a curated list of research papers, articles, and blog posts 
 #### Retrieval Augmented Generation (RAG)
 - [Retrieval Augmented Generation (RAG): Reducing Hallucinations in GenAI Applications](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 - [Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-retrieval-augmented-generation/)
+- [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 
 ## Contributing
 
