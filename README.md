@@ -24,7 +24,7 @@ In this section, you will find a collection of Google Colab notebooks that provi
 
 This section contains links to code repositories that demonstrate the implementation of GPT in real-world applications. You can explore these repositories to gain insights into how GPT can be integrated into different projects and use cases.
 
-- [Example Code Repository 1](#link-to-repo-1)
+- [GPT-AI-Assistant](#https://github.com/memochou1993/gpt-ai-assistant)
 - [Example Code Repository 2](#link-to-repo-2)
 - [Example Code Repository 3](#link-to-repo-3)
 
