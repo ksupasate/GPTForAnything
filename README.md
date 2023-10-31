@@ -36,6 +36,8 @@ Here, you will find a curated list of research papers, articles, and blog posts 
 - [Language Models are Few-Shot Learners](https://browse.arxiv.org/pdf/2005.14165.pdf)
 - [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)
 - [ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown](https://browse.arxiv.org/pdf/2307.10195.pdf)
+- [Harnessing GPT-4 for generation of cybersecurity GRC policies: A focus on ransomware attack mitigation](https://www.sciencedirect.com/science/article/pii/S0167404823003346)
+
 #### Retrieval Augmented Generation (RAG)
 - [Retrieval Augmented Generation (RAG): Reducing Hallucinations in GenAI Applications](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 - [Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-retrieval-augmented-generation/)
